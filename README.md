@@ -1,14 +1,12 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí y mis
+proyectos.
 ## Contenido
-* [Información personal]
-* [Proyectos]
-## Información personal
+* [Información](#Información)
+* [Proyectos](#Proyectos)
+## Información
 * Nombre: Luis Antonio Quezada Aristega
-* Ocupación: [Tu ocupación]
+* Edad: 21
+* Curriculum: https://luisantonioquezadaaristega.github.io/curriculum/
 ## Proyectos
-* [Lista de tus proyectos]
-## Intereses
-* [Lista de tus intereses]
-
+* https://luisantonioquezadaaristega.github.io/landing_page/index.html
