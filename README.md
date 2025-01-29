@@ -6,7 +6,8 @@ proyectos.
 * [Proyectos](#Proyectos)
 ## Información
 * Nombre: Luis Antonio Quezada Aristega
-* Edad: 21
+* Edad: 22
 * [Curriculum](https://luisantonioquezadaaristega.github.io/curriculum/)
 ## Proyectos
 * [landing_page](https://luisantonioquezadaaristega.github.io/landing_page/index.html)
+* [dashboard](https://luisantonioquezadaaristega.github.io/dashboard/)
